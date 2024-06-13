@@ -1,8 +1,10 @@
-# testing-lang
+# Vue-Electron-Template
 
 ## Project setup
 ```
 npm install
+vue add vuetify
+vue add electron-builder
 ```
 
 ### Compiles and hot-reloads for development
@@ -13,11 +15,6 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
 ```
 
 ### Customize configuration
