@@ -3,8 +3,8 @@
 ## Project setup
 ```
 npm install
-vue add vuetify
-vue add electron-builder
+npm add vuetify
+npm add electron-builder
 ```
 
 ### Compiles and hot-reloads for development
